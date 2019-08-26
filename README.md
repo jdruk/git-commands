@@ -4,8 +4,10 @@ git init
 ```
 
 # Trackear arquivos
+```zsh
 git add .
 git add filename
+```
 
 # Commit 
 ```zsh
